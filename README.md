@@ -58,5 +58,3 @@ https://jamesclear.com/atomic-habits
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" height="30" width="30">
 </a>
 
-
-<iframe src="https://giphy.com/embed/3o7qDSOvfaCO9b3MlO" width="480" height="342" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/obama-mic-drop-out-3o7qDSOvfaCO9b3MlO">via GIPHY</a></p>
