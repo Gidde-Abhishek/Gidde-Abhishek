@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I am Abhishek C. Gidde! 😁
+### I am Abhishek C. Gidde! 😁
 
 I'm a Full Stack Developer, filled with passion, sometimes I edit videos, write peoms and do everything that excites me.🎈
 
@@ -13,7 +13,7 @@ I will re-invent the way the world works🌍.
 - 😄 Pronouns: He/him
 - ⚡ Loves reading.
 
-### 📔 A book that changed my life: Atomic Habits by James Clear ###
+### 📔 A book that changed my life: Atomic Habits by James Clear
 https://jamesclear.com/atomic-habits
 
 <br />
