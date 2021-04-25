@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-My name is a Abhishek! 😁
+I am Abhishek C. Gidde! 😁
 
 I'm a Full Stack Developer, filled with passion, sometimes I edit videos, write peoms and do everything that excites me.🎈
 
