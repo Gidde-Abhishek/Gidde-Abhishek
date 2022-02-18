@@ -9,8 +9,6 @@ I will re-invent the way the world works🌍.
 
 - 🔭 I’m currently working on a P2P Crowdfunding App.
 - 🌱 I’m currently learning Business and Finance.
-- 💬 Ask me about innovation, startups, programming, branding and VFX.
-- 😄 Pronouns: He/him
 - ⚡ Loves reading.
 
 ### 📔 A book that changed my life: Atomic Habits by James Clear
