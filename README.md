@@ -7,9 +7,9 @@ I'm a Full Stack Developer, filled with passion, sometimes I edit videos, write 
 I will re-invent the way the world works🌍.
 
 
-- 🔭 I’m currently working on a P2P Crowdfunding App.
+- 🔭 I’m currently working on Choice FinX (https://apps.apple.com/in/app/choice-finx-formerly-jiffy/id1327801261).
 - 🌱 I’m currently learning Business and Finance.
-- ⚡ Loves reading.
+- ⚡ Love reading non-fiction.
 
 ### 📔 A book that changed my life: Atomic Habits by James Clear
 https://jamesclear.com/atomic-habits
