@@ -7,9 +7,12 @@ I'm a Full Stack Developer, filled with passion, sometimes I edit videos, write 
 I will re-invent the way the world works🌍.
 
 
-- 🔭 I’m currently working on Choice FinX (https://apps.apple.com/in/app/choice-finx-formerly-jiffy/id1327801261).
+- 🔭 I’m currently planning and building end to end AI systems at Choice International Limited(https://www.nseindia.com/get-quotes/equity?symbol=CHOICEIN) 
+- ⚡I have worked on Choice FinX (https://apps.apple.com/in/app/choice-finx-formerly-jiffy/id1327801261).
 - 🌱 I’m currently learning Business and Finance.
 - ⚡ Love reading non-fiction.
+
+[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=gidde-abhishek)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📔 A book that changed my life: Atomic Habits by James Clear
 https://jamesclear.com/atomic-habits
