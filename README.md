@@ -10,11 +10,7 @@ I will re-invent the way the world works 🌍.
 - 🔭 I’m currently planning and building end to end AI systems at Choice International Limited(https://www.nseindia.com/get-quotes/equity?symbol=CHOICEIN) 
 - ⚡I have worked on Choice FinX (https://apps.apple.com/in/app/choice-finx-formerly-jiffy/id1327801261).
 - 🌱 I’m currently learning Business and Finance.
-- ⚡ Love reading non-fiction.
 
-
-### 📔 A book that changed my life: Atomic Habits by James Clear
-https://jamesclear.com/atomic-habits
 
 <br />
 <br />
