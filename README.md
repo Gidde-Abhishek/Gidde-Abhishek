@@ -1,10 +1,10 @@
 ### Hi there 👋 
 
-### I am Abhishek C. Gidde! 😁
+### I am Abhishek Chandrakant Gidde! 😁
 
-I'm a Full Stack Developer, filled with passion, sometimes I edit videos, write peoms and do everything that excites me.🎈
+I'm a Product Manager / Full Stack Developer, filled with passion, currently leading AI developement at Choice International Limited.
 
-I will re-invent the way the world works🌍.
+I will re-invent the way the world works 🌍.
 
 
 - 🔭 I’m currently planning and building end to end AI systems at Choice International Limited(https://www.nseindia.com/get-quotes/equity?symbol=CHOICEIN) 
