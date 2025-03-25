@@ -12,7 +12,6 @@ I will re-invent the way the world works🌍.
 - 🌱 I’m currently learning Business and Finance.
 - ⚡ Love reading non-fiction.
 
-[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=gidde-abhishek&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📔 A book that changed my life: Atomic Habits by James Clear
 https://jamesclear.com/atomic-habits
