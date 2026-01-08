@@ -7,7 +7,8 @@ I'm a Product Manager / Full Stack Developer, filled with passion, currently lea
 I will re-invent the way the world works 🌍.
 
 
-- 🔭 I’m currently planning and building end to end AI systems at Choice International Limited(https://www.nseindia.com/get-quotes/equity?symbol=CHOICEIN) 
+- 🔭 I’m currently planning and building end to end AI systems at Choice International Limited(https://www.nseindia.com/get-quotes/equity?symbol=CHOICEIN)
+- ⚡Man behind Choice Felix (https://felix.investica.com).
 - ⚡I have worked on Choice FinX (https://apps.apple.com/in/app/choice-finx-formerly-jiffy/id1327801261).
 - 🌱 I’m currently learning Business and Finance.
 
