@@ -2,7 +2,8 @@
 
 ### I am Abhishek Chandrakant Gidde! 😁
 
-I'm a Product Manager / Full Stack Developer, filled with passion, currently leading AI developement at Choice International Limited.
+I'm a System Architech - Full Stack Developer, filled with passion, currently Team Leader for AI developement at Choice International Limited.
+Co-founder Quanthm AI.
 
 I will re-invent the way the world works 🌍.
 
