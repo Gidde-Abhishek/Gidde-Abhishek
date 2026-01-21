@@ -52,7 +52,7 @@ I will re-invent the way the world works 🌍.
 
 ## How to reach me 📫 
 
-<a href="https://www.linkedin.com/in/abhishek-gidde/" rel="nofollow">
+<a href="https://www.linkedin.com/in/abhishekgidde/" rel="nofollow">
   <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>
   
